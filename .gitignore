@@ -1,0 +1,5 @@
+tools/xxd
+root/KAHUT.EXE
+*.cue
+*.bin
+Assets.h

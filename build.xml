@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<iso_project image_name="Kahut.bin" cue_sheet="Kahut.cue" no_xa="0">
+	<track type="data">
+		<identifiers
+			system			="PLAYSTATION"
+			application		="PLAYSTATION"
+			volume			="KAHUT"
+			volume_set		="KAHUT"
+			publisher		="SCEE"
+		/>
+		
+		<license file="assets/LICENSEE.DAT"/>
+		
+		<directory_tree srcdir="root">
+			<file type="data" name="SYSTEM.CNF"/>
+			<file type="data" name="KAHUT.EXE"/>
+			
+			<dummy sectors="1024"/>
+		</directory_tree>
+	</track>
+
+	<track type="audio" source="assets/trance.wav"/>
+	<track type="audio" source="assets/8bit.wav"/>
+</iso_project>
