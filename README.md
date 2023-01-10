@@ -2,7 +2,7 @@
 
 A homebrew Kahoot clone for the Sony PlayStation®. Made for my French homework.
 
-[For more information (including gameplay instructions), please visit my blog post about this project.](https://blog.prochazka.ml/index.php/article/kahut-psx)
+[For more information (including gameplay instructions), please visit my blog post about this project.](https://blog.prochazkaml.eu/index.php/article/kahut-psx)
 
 ## How to add custom questions
 
@@ -26,7 +26,7 @@ to whatever you like. See the [l10n](https://github.com/prochazkaml/KahutPSX/tre
 
 ## Build instructions
 
-To build Kahút, you will need a Linux system with the PsyQ toolchain, as described [in my guide](https://blog.prochazka.ml/index.php/article/psyq-modern-linux). After you've done that, all you need to do is to run the following in the terminal:
+To build Kahút, you will need a Linux system with the PsyQ toolchain, as described [in my guide](https://blog.prochazkaml.eu/index.php/article/psyq-modern-linux). After you've done that, all you need to do is to run the following in the terminal:
 
 ```
 ./make.sh
